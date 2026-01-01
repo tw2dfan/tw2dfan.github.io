@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TW2D Wiki</title>
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="vis/altimit.css">
+</head>
+<body>
+<div class="row h-200">
+
+ <div class="col-1">
+<nav class="nav flex-column link-color-white">
+    <a class="navbar-brand" href="index.html">
+      <img src="/vis/twlogo.png" alt="Logo" style="width:100%, height:auto" class="d-inline-block align-text-top text-color-white">
+    </a>
+  <a class="nav-link active text-color-white link-color-white small" href="/item.html?id=1">ITEMS</a>
+  <a class="nav-link link-color-white small" href="/maps.html?id=1">MAPS</a>
+  <a class="nav-link link-color-white small" href="/npc.html?id=1">NPCS</a>
+</nav>
+</div>
+<div class="col-11">
+	  <p></p>
+	    <div class="row justify-content-center"  style="width:100%">
+
+ <div class="col-4 g-1 d-block">
+    <div class="card rounded-0">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	ITEM INFO:
+
+  </div>
+
+		<div id="item-info" class="card-body" ><ul class="list-group list-group-flush">
+		<li class="small text-white list-group-item" id="itemID">ID:</li>
+		<li class="small text-white  list-group-item" id="itemName">Name:</li>
+		<li class="small text-white  list-group-item" id="itemDes">Description:</li>
+		<li class="small text-white  list-group-item" id="itemLevel">Level:</li>
+		<li class="small text-white  list-group-item" id="itemType">Type:</li>
+		<li class="small text-white  list-group-item" id="itemClass">Class Restrictions:</li>
+		
+		
+		
+		
+		</ul></div>
+
+    </div>
+  </div>
+   <div class="col-4 g-1 d-block" style="min-height: 300px; max-height:300px;">
+    <div class="card rounded-0">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	DROPS INFO:
+
+  </div>
+
+		<div id="drops-info" class="card-body overflow-auto"><ul id="dropscontent" class="list-group list-group-flush overflow-auto mh-10">
+		
+		</ul></div>
+
+    </div>
+  </div>
+  
+  
+     <div class="col-4 g-1 d-block" style="min-height: 300px; max-height:300px;">
+    <div class="card rounded-0 ">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	ACQUISITION INFO:
+
+  </div>
+
+		<div id="location" class="card-body overflow-auto" ><ul id="loc-info" class="list-group list-group-flush overflow-auto mh-10">
+	
+		</ul></div>
+
+    </div>
+  </div>
+  
+  </div>
+  
+  
+  
+    <div class="row justify-content-center"  style="width:100%">
+    <p></p>
+        <div class="col-2 g-1">
+   
+   
+   
+    <div class="card rounded-0 g-1">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	ITEM SEARCH:</div>
+	<div class="card-body">
+   <form id="serversel" class="rounded-0 text-light">
+  <div class="card-text text-light rounded-0" style="z-index:99999;">
+  <select class="text-light align-text-bottom rounded-0 small card " name="ITEM DATA" id="item-select" onchange="displayITEM(this.value)">
+  <option value="">Select an Item</option>
+  </select>
+  <input class="small card-text text-light align-text-bottom rounded-0 card" id="filterInput" type="text" onkeyup="itemSearch()" placeholder="Item Search" style="z-index:1;">
+
+  
+  </div>
+</form>
+
+</div>
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+		<div class="col-10 g-1">
+<div class="card table-responsive w-100 d-block rounded-0" style="height:25vh;">
+
+ <table class="h-50 w-100" style="top:10px; padding:0; margin:0; width:100%;" id="innertable">
+        <thead>
+            <tr class="card-header align-text-bottom rounded-0 text-uppercase" style="position:sticky; top:0px">
+                <th style="width:5%;">ID</th>
+                <th style="width:50%;">Name</th>    
+                <th style="width:15%;">Type</th>   
+				<th style="width:15%;">Class</th> 
+				<th style="width:5%;">Level</th> 
+            </tr>
+        </thead>
+        <tbody class="card-body  text-white " id="maptbody" style="overflow-y: scroll; text-shadow:2px 2px 0px rgba(0,0,0,.5);">
+
+
+
+        </tbody>
+    </table>
+</div>
+</div>
+
+      </div>
+  <p></p>
+  <div class="row justify-content-center" style=" width:100%;">
+<p></p>
+</div>
+  
+  
+  
+  
+  
+  
+    <script src="itemscript.js"></script>
+	</div>
+		</div>
+</body>
+</html>

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TW2D Wiki</title>
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="vis/altimit.css">
+</head>
+<body>
+
+
+
+
+
+
+
+
+ 
+
+
+
+ <div class="row h-200" style="width: 100% !important;">
+
+ <div class="col-1">
+<nav class="nav flex-column link-color-white">
+    <a class="navbar-brand" href="index.html">
+      <img src="/vis/twlogo.png" alt="Logo" style="width:100%, height:auto" class="d-inline-block align-text-top text-color-white">
+    </a>
+    <a class="nav-link link-color-white small"" href="/npc.html?id=1">NPCS</a>
+  <a class="nav-link link-color-white small"" href="/item.html?id=1">ITEMS</a>
+   <a class="nav-link active text-color-white link-color-white small"" href="/maps.html?id=1">MAPS</a>
+</nav>
+</div>
+<div class="col-11">
+	  <p></p>
+	    <div class="row justify-content-center" >
+
+  <div class="col-3 g-1 d-block">
+  
+  
+  
+  
+  
+ <div class="row h-200" style="width: 100% !important;">
+    <div class="card rounded-0"  style=" padding: 0 !important; width: 100% !important;">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	MAP INFO:
+
+  </div>
+
+		<div id="replacethis" class="card-body" <ul class="list-group list-group-flush">
+		<li class="small text-white list-group-item">Map ID:</li>
+		<li class="small text-white list-group-item">Map Name:                                          </li>
+		<li class="small text-white list-group-item">Server: </li>
+	    <li class="small text-white list-group-item">Keywords:</li>
+		<li class="small text-white list-group-item">Type:</li>
+		</ul></div>
+
+    </div>
+	
+	
+	
+	
+	
+	
+	
+	</div>
+	  
+  <p>
+ <div class="row h-200" style=" padding: 0 !important; width: 100% !important;">
+    <div class="card rounded-0" style=" padding: 0 !important; width: 100% !important;">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	NPC INFO:
+
+  </div>
+
+		<div  class="card-body" >
+		<div class ="card-body small text-white">NPCS: </div>
+		
+		<ul id="npclist" class="list-group list-group-flush">
+<li class="small text-white list-group-item">None</li>
+
+		</ul>
+		
+
+		</div>
+    </div>
+	
+
+	
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  </div>
+<div class="col-4 g-1">
+
+
+
+
+ <div class="card rounded-0">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase d-block">
+	MAP VIEWER:
+
+  </div>
+
+	<div id="mapparent" class="card-body">
+
+ <canvas class="canvas object-fit-contain " id="gameCanvas" onfocus="focusredirFunction()" style="background-attachment: fixed; background-position: center center; background-size: cover; background-repeat: no-repeat; background-color: rgb(33, 37, 41); max-height: 100%; max-width: 100%; aspect-ratio: 1024 / 1024; inset: 0px; margin-top: 0px; margin-right: auto; margin-left: auto; z-index: 0; position: static; image-rendering: crisp-edges; display: block; touch-action: none;" width="1024px" height="1024px">
+
+               <p>Your browser doesn't support HTML5 canvas.</p>
+            </canvas>
+<div id="saveButton" class="card-header">Download Map</div>
+	</div>
+    </div>
+  </div>	
+  
+  
+   <div class="col-4 g-1 d-block">
+   
+   
+   
+   
+   
+   
+   
+    <div class="row h-200 padding-start" style="padding-left:1.5rem !important; width: 100% !important;">
+
+   
+    <div class="card rounded-0 " style=" padding:0 !important; width: 100% !important;">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	Connected Areas:
+
+  </div>
+
+<div id="replacethis2" class="card-body" ><ul class="list-group list-group-flush"><li class="small text-white list-group-item">Connections: None</li><li class="small text-white list-group-item">Warps: None</li><li class="small text-white list-group-item">Fairy Orb: None</li><li class="small text-white list-group-item">Virus Core: None</li><li class="small text-white list-group-item">Other: None</li></ul></div>
+
+    </div>
+	
+	
+	
+	<!--- end of row -->
+	</div>
+	<p>
+	
+	    <div class="row h-200" style="padding-left:1.5rem !important; width: 100% !important;">
+
+   
+    <div class="card rounded-0" style=" padding: 0 !important; width: 100% !important;">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	ITEM INFO:
+
+  </div>
+
+<div class="card-body" aria-label="">
+				<div class ="card-body small text-white">Items: </div>
+		
+		<ul id="itemlist" class="list-group list-group-flush">
+<li class="small text-white list-group-item">None</li>
+		</ul>
+
+</div>
+
+    </div>
+	
+	
+	
+	<!--- end of row -->
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  </div>
+  
+  </div>
+  
+  
+  
+    <div class="row justify-content-center"  style="width:100%">
+    <p></p>
+        <div class="col-2 g-1">
+   
+   
+    <div class="card rounded-0 g-1">
+	  <div class="card-header align-text-bottom border rounded-0 text-uppercase">
+	MAP SEARCH:</div>
+	<div class="card-body">
+	 <form id="serversel2" class="rounded-0 text-light">
+  <div class="card-text text-light rounded-0" style="z-index:99999;">
+<select class="text-light align-text-bottom rounded-0 small card" id="srvsel" name="Maps" onchange="filterServer(this.value)">
+  <option value="">Server Select:</option>
+  <option value="Delta">Delta</option>
+  <option value="Theta">Theta</option>
+  <option value="Lambda">Lambda</option>
+  <option value="Sigma">Sigma</option>
+  <option value="Omega">Omega</option>
+  <option value="Phi">Phi</option>
+  <option value="1">View All</option>
+  </select>
+   
+  </div>
+</form>
+   <form id="serversel" class="rounded-0 text-light">
+  <div class="card-text text-light rounded-0" style="z-index:99999;">
+  <select class="text-light align-text-bottom rounded-0 small card " name="MAP DATA" id="map-select" onchange="loadMapFile(this.value)">
+  <option value="">Select a Map</option>
+  </select>
+  <input class="small card-text text-light align-text-bottom rounded-0 card" id="filterInput" type="text" onkeyup="mapSearch()" placeholder="Map Search" style="z-index:1;">
+
+  
+  </div>
+</form>
+
+</div>
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+		
+		
+		
+		<div class="col-10 g-1">
+		
+<div class="card table-responsive w-100 d-block rounded-0" style="height:25vh;">
+
+ <table class="h-50 w-100" style="top:10px; padding:0; margin:0; width:100%;" id="innertable">
+        <thead>
+            <tr class="card-header align-text-bottom rounded-0 text-uppercase" style="position:sticky; top:0px">
+    <th style="width:5%;">ID</th>
+	<th style="width:5%;">Type</th>	
+    <th style="width:20%;">Map Name</th> 
+	<th style="width:10%;">Server</th>	
+	<th style="width:20%;">Word 1</th>
+	<th style="width:20%;">Word 2</th>
+	<th style="width:20%;">Word 3</th>
+  
+            </tr>
+        </thead>
+        <tbody class="card-body  text-white " id="maptbody" style="overflow-y: scroll; text-shadow:2px 2px 0px rgba(0,0,0,.5);">
+
+
+
+        </tbody>
+    </table>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+      </div>
+  <p></p>
+  <div class="row justify-content-center" style=" width:100%;">
+<p></p>
+</div>
+  
+  
+  
+  
+  
+  
+	</div>
+		</div>
+		
+
+
+  <script src="mapscript.js"></script>
+		    <script>
+
+        document.getElementById('saveButton').addEventListener('click', function() {
+            const imgdata = canvas.toDataURL('image/png');
+            const link = document.createElement('a');
+            link.href = imgdata;
+            link.download = 'canvas-image.png';
+            link.click();
+        });
+    </script>
+</body>
+</html>
+
+
+	

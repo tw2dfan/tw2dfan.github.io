@@ -1,0 +1,2377 @@
+[
+    null,
+    {
+        "shopname": "Delta Basic Items",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 628,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 632,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 50,
+                "GetItem": 618,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 50,
+                "GetItem": 635,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 10,
+                "GetItem": 625,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 638,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 624,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 639,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 631,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 630,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 629,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 620,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 636,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 641,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 642,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 1,
+                "GiveValue": 1,
+                "GetItem": 3,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Delta Weapons",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 800,
+                "GetItem": 3,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 4,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 800,
+                "GetItem": 64,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 600,
+                "GetItem": 123,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 800,
+                "GetItem": 124,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 205,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 700,
+                "GetItem": 263,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 321,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 378,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 438,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 498,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 558,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 458,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 478,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 578,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 598,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 518,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 538,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 400,
+                "GetItem": 737,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Delta Scrolls",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 655,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 652,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 664,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 650,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 649,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 648,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 643,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 666,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 668,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 683,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 686,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 689,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 671,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 701,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "Theta Basic Items",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 628,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 632,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 50,
+                "GetItem": 618,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 50,
+                "GetItem": 635,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 10,
+                "GetItem": 625,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 638,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 624,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 639,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 631,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 630,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 636,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 620,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 641,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Theta Weapons",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 1600,
+                "GetItem": 7,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1800,
+                "GetItem": 8,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1400,
+                "GetItem": 67,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1600,
+                "GetItem": 128,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1800,
+                "GetItem": 129,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1600,
+                "GetItem": 208,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1300,
+                "GetItem": 266,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1400,
+                "GetItem": 326,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 800,
+                "GetItem": 379,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 419,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1200,
+                "GetItem": 440,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1300,
+                "GetItem": 460,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1400,
+                "GetItem": 480,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 800,
+                "GetItem": 749,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 900,
+                "GetItem": 519,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 539,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1200,
+                "GetItem": 560,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1300,
+                "GetItem": 580,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1400,
+                "GetItem": 600,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1400,
+                "GetItem": 739,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Theta Scrolls",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 655,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 652,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 664,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 650,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 649,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 648,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 643,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 666,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 674,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 695,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 698,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 677,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 692,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 680,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "Lambda Basic Items",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 627,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 632,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1500,
+                "GetItem": 619,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 50,
+                "GetItem": 618,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 50,
+                "GetItem": 635,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 10,
+                "GetItem": 625,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 638,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 624,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 639,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 631,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 630,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 636,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 620,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 641,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Lambda Weapons",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 3800,
+                "GetItem": 18,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4000,
+                "GetItem": 19,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3000,
+                "GetItem": 604,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3800,
+                "GetItem": 79,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 5000,
+                "GetItem": 145,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 5200,
+                "GetItem": 146,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3300,
+                "GetItem": 585,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4000,
+                "GetItem": 220,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3900,
+                "GetItem": 279,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3800,
+                "GetItem": 338,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 2800,
+                "GetItem": 384,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3300,
+                "GetItem": 405,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3000,
+                "GetItem": 424,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 2800,
+                "GetItem": 444,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3300,
+                "GetItem": 465,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3000,
+                "GetItem": 484,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 2800,
+                "GetItem": 504,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3300,
+                "GetItem": 525,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 3000,
+                "GetItem": 544,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 2800,
+                "GetItem": 564,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 5000,
+                "GetItem": 740,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Lambda Scrolls",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 655,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 2000,
+                "GetItem": 646,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 660,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 200,
+                "GetItem": 662,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 656,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 675,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 684,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 696,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 687,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 699,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 690,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 678,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 672,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 693,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 500,
+                "GetItem": 702,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "Sigma Basic Items",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "Sigma Weapons",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 6400,
+                "GetItem": 37,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6600,
+                "GetItem": 12,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 9000,
+                "GetItem": 33,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 9300,
+                "GetItem": 94,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 8600,
+                "GetItem": 163,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 9800,
+                "GetItem": 164,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 10800,
+                "GetItem": 165,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 7500,
+                "GetItem": 234,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 9700,
+                "GetItem": 293,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 8600,
+                "GetItem": 352,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4400,
+                "GetItem": 388,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4500,
+                "GetItem": 408,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4600,
+                "GetItem": 428,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4400,
+                "GetItem": 448,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4500,
+                "GetItem": 468,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4600,
+                "GetItem": 487,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4400,
+                "GetItem": 508,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4500,
+                "GetItem": 528,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4600,
+                "GetItem": 548,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4400,
+                "GetItem": 568,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4500,
+                "GetItem": 588,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 4600,
+                "GetItem": 608,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 5500,
+                "GetItem": 741,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 5800,
+                "GetItem": 742,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Sigma Scrolls",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "Omega Basic Items",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 2000,
+                "GetItem": 626,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Omega Weapons",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 13000,
+                "GetItem": 41,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 13500,
+                "GetItem": 42,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 13600,
+                "GetItem": 43,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 14200,
+                "GetItem": 104,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 14600,
+                "GetItem": 176,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 14700,
+                "GetItem": 177,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 14800,
+                "GetItem": 178,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 13700,
+                "GetItem": 244,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 14200,
+                "GetItem": 303,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 13400,
+                "GetItem": 362,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6000,
+                "GetItem": 392,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6100,
+                "GetItem": 412,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6200,
+                "GetItem": 432,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6000,
+                "GetItem": 452,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6100,
+                "GetItem": 472,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6200,
+                "GetItem": 492,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6000,
+                "GetItem": 512,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6100,
+                "GetItem": 532,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6200,
+                "GetItem": 552,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6000,
+                "GetItem": 572,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6100,
+                "GetItem": 592,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6200,
+                "GetItem": 612,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6500,
+                "GetItem": 743,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 6800,
+                "GetItem": 744,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Omega Scrolls",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "???",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 1,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 705,
+                "GiveValue": 1,
+                "GetItem": 979,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Joke Item Shop",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 930,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 931,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 932,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 933,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 934,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 935,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 936,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 937,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 938,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 939,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 940,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 941,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 942,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 943,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 944,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 945,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 946,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 947,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 948,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 929,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 928,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 927,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 926,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 1000,
+                "GiveValue": 1,
+                "GetItem": 985,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 10000,
+                "GetItem": 991,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 991,
+                "GiveValue": 1,
+                "GetItem": 727,
+                "GetValue": 1000
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1,
+                "GetItem": 925,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 924,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 923,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 922,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 921,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 920,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 919,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 918,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 917,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 916,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 10000,
+                "GetItem": 878,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 727,
+                "GetValue": 10000
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1000,
+                "GetItem": 880,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 882,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 883,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 884,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 885,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 886,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 887,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 888,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 889,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 10,
+                "GetItem": 890,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 10,
+                "GetItem": 891,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 10,
+                "GetItem": 892,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 893,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 874,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 875,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 876,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 880,
+                "GiveValue": 1,
+                "GetItem": 878,
+                "GetValue": 1000
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 837,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 838,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 839,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 840,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 841,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 842,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 843,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 844,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 845,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 100,
+                "GetItem": 846,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 100,
+                "GetItem": 848,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Beach Shop",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 150,
+                "GetItem": 908,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1,
+                "GetItem": 909,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 917,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 918,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 919,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 930,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 931,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 932,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 933,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 934,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 946,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 727,
+                "GiveValue": 1000,
+                "GetItem": 944,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 991,
+                "GiveValue": 1,
+                "GetItem": 727,
+                "GetValue": 1000
+            }
+        ]
+    },
+    {
+        "shopname": "Joke Item Shop 2",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 727,
+                "GiveValue": 10000,
+                "GetItem": 878,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 727,
+                "GetValue": 10000
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 855,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 856,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 857,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 858,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 859,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 860,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 861,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 862,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 10,
+                "GetItem": 863,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 10,
+                "GetItem": 864,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 865,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 866,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 10,
+                "GetItem": 867,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 868,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 847,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 849,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 850,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 835,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 878,
+                "GiveValue": 1,
+                "GetItem": 836,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "tree",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 977,
+                "GiveValue": 10,
+                "GetItem": 988,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 988,
+                "GiveValue": 20,
+                "GetItem": 967,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 969,
+                "GiveValue": 1,
+                "GetItem": 915,
+                "GetValue": 5
+            },
+            {
+                "GiveItem": 915,
+                "GiveValue": 50,
+                "GetItem": 959,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 915,
+                "GiveValue": 50,
+                "GetItem": 914,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "Phi Weapons",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 1,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 814,
+                "GiveValue": 1,
+                "GetItem": 57,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 5,
+                "GetItem": 58,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 1,
+                "GetItem": 112,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 5,
+                "GetItem": 114,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 1,
+                "GetItem": 196,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 5,
+                "GetItem": 198,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 1,
+                "GetItem": 252,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 5,
+                "GetItem": 253,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 1,
+                "GetItem": 315,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 5,
+                "GetItem": 318,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 1,
+                "GetItem": 374,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 5,
+                "GetItem": 773,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Phi Armor",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 1,
+        "TradeItemsRec": [
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 395,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 455,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 515,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 575,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 415,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 475,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 535,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 595,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 435,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 495,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 555,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 615,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 500,
+                "GetItem": 963,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 500,
+                "GetItem": 964,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 500,
+                "GetItem": 965,
+                "GetValue": 1
+            },
+            {
+                "GiveItem": 814,
+                "GiveValue": 10,
+                "GetItem": 806,
+                "GetValue": 1
+            }
+        ]
+    },
+    {
+        "shopname": "Phi Items",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 1,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    },
+    {
+        "shopname": "",
+        "JoinSay": "",
+        "LeaveSay": "",
+        "FixesItems": 0,
+        "TradeItemsRec": [
+        ]
+    }
+]
