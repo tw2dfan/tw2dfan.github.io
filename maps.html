@@ -297,8 +297,10 @@
 
   <script src="mapscript.js"></script>
 		    <script>	
-		const imgnam = urlParams.get('id')
-        document.getElementById('saveButton').addEventListener('click', function() {
+		document.getElementById('saveButton').addEventListener('click', function() {
+			    const urlParamsd = new URLSearchParams(window.location.search);
+   				 const imgnam = urlParamsd.get('id');     
+
             const imgdata = canvas.toDataURL('image/png');
             const link = document.createElement('a');
             link.href = imgdata;
