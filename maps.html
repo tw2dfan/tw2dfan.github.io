@@ -296,13 +296,13 @@
 
 
   <script src="mapscript.js"></script>
-		    <script>
-
+		    <script>	
+		const imgnam = urlParams.get('id')
         document.getElementById('saveButton').addEventListener('click', function() {
             const imgdata = canvas.toDataURL('image/png');
             const link = document.createElement('a');
             link.href = imgdata;
-            link.download = 'canvas-image.png';
+            link.download = `map${imgnam}.png`;
             link.click();
         });
     </script>
